@@ -1,0 +1,24 @@
+
+Read 5 records from file ./data/ECommerce5.dataset
+Main Index by UserID
+5 pairs
+0 records could not be indexed
+amount :18.73 USD$$
+
+Sales/Weekday
+      0.00      0.00      5.00      0.00      0.00      0.00      0.00      5.00
+
+    SUNDAY    MONDAY   TUESDAY WEDNESDAY  THURSDAY    FRIDAY  SATURDAY
+
+
+DateTime (traffic)
+      5.00      5.00
+
+2019-10-01
+
+
+DateTime (amount)
+     18.73     18.73
+
+2019-10-01
+

@@ -1,0 +1,24 @@
+
+Read 30 records from file ./data/ECommerce41.dataset
+Main Index by UserID
+30 pairs
+0 records could not be indexed
+amount :118.05 USD$$
+
+Sales/Weekday
+     24.00      5.00      0.00      0.00      0.00      1.00      0.00     30.00
+
+    SUNDAY    MONDAY   TUESDAY WEDNESDAY  THURSDAY    FRIDAY  SATURDAY
+
+
+Type (traffic)
+     13.00      5.00      1.00     11.00     30.00
+
+      viewremove_fro      cart  purchase
+
+
+Type (amount)
+     47.97     20.13      0.63     49.32    118.05
+
+      viewremove_fro      cart  purchase
+
